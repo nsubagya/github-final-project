@@ -14,3 +14,6 @@ CODE_OF_CONDUCT.md file added to the projects main branch as indicated in the pr
 
 ## step 3
 Add contribution guidelines to the project.
+
+## step 4
+Create a new file named simple-interest.sh in the root directory of the repository.
