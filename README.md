@@ -17,3 +17,6 @@ Add contribution guidelines to the project.
 
 ## step 4
 Create a new file named simple-interest.sh in the root directory of the repository.
+
+## step 5
+Add my GitHub username to the authors section of simple-interest.sh.
