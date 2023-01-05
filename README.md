@@ -11,3 +11,6 @@ Output
 
 ## step 2
 CODE_OF_CONDUCT.md file added to the projects main branch as indicated in the project.
+
+## step 3
+Add contribution guidelines to the project.
